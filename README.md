@@ -6,7 +6,7 @@ Check the [Blog Post](https://asanka.hashnode.dev/05-mondrian-tiles-drawing-with
 
 ---
 
-
+![](Example Output/Mondrian Tiles 1.png)
 
 ### Find me on social media
 
