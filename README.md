@@ -2,11 +2,13 @@
 ## Drawing with Code
 [Piet Mondrian](https://en.wikipedia.org/wiki/Piet_Mondrian) is a Dutch artist who is regarded as one of the greatest artists of the 20th century. [Mondrian Tiles](https://www.piet-mondrian.org/) come from some of the paintings he did and consist of colourful tiles arranged in a pattern. In this article, we will try to recreate these patterns using an algorithm.
 
+![Example Output/Mondrian Tiles 1.png](https://github.com/asankaSovis/05.-Mondrian_Tiles/blob/b29c6f7a80751eb59fbd86d4cb90bda12e339bd8/Example%20Output/Mondrian%20Tiles%201.png)
+
 Check the [Blog Post](https://asanka.hashnode.dev/05-mondrian-tiles-drawing-with-code)  that this repo is connected to.
 
 ---
 
-![](Example Output/Mondrian Tiles 1.png)
+!
 
 ### Find me on social media
 
